@@ -1,4 +1,34 @@
-.header{
-    background-color: rgba(0, 81, 255, 0.767);
-    color: white;
+body {
+  min-width: 320px;
+  max-width: 479px;
+}
+
+.header {
+  background-color: black;
+}
+
+.logo {
+  width: 80px;
+}
+
+.menu-icon {
+  width: 30px;
+}
+
+.premium {
+  background-color: cornflowerblue;
+}
+
+.benefit {
+  width: 60px;
+}
+
+.footer {
+  color: white;
+  background-color: black;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
 }
